@@ -47,7 +47,7 @@ string temp_PhoneNumber, temp_Email;
 
 void main() {
     
-	// console icin yazilmis bu kodu 
+	// control size of console
 
 	HWND console = GetConsoleWindow();
 	RECT ConsoleRect;
