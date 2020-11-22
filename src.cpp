@@ -1,6 +1,10 @@
-/* Muhammed Suwaneh ESOGU */
-/* Student Management System */
-
+/*
+*
+*@author - Muhammed Suwaneh
+*@ESOGU Department of Computer Engineering
+*
+*
+*/
 #include <iostream>
 #include <cstdio>
 #include <cstdlib>
